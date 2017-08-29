@@ -1,0 +1,11 @@
+{
+  "name": "runling-test-plugin",
+  "version": "1.0.0",
+  "description": "A test plugin for runling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Doran <eli+npm@elidoran.com>",
+  "license": "MIT"
+}

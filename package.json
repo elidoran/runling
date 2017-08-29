@@ -1,6 +1,6 @@
 {
   "name": "runling",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Run commands as readable statements",
   "preferGlobal": true,
   "author": "Eli Doran <eli+npm@elidoran.com>",

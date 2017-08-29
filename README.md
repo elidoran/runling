@@ -104,7 +104,7 @@ A plugin is a task function which will be called by package [taskling](https://n
 The args are:
 
 1. **next** - the callback to call when you're done. It accepts an `Error` as the first argument.
-2. **shared** - the shared object given to each task. It has property `args` with its command arguments in it. It also has a `run` function for running a child process. See [API - run(object)](#run-object).
+2. **shared** - the shared object given to each task. It has property `args` with its command arguments in it. It also has a `run` function for running a child process. See [API - run(object)](#runobject).
 
 For example, calling `runling echo some text` would provide the "echo" plugin the `shared.args` `[ 'some', 'text' ]`.
 
